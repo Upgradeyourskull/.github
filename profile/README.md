@@ -1,5 +1,5 @@
 # MANIFEST
-- Game experience start at first screen : menu is part of the game
-- Difficulties are not an option
-- Game reflects physcholigical reality
-- Everything is here for a reason
+- Game experience start at launch : menu is part of the game
+- Difficulties are not an option : at some point, you want to quit
+- Game reflects psychological reality : game is what someone live
+- Everything is here for a reason : details matter
