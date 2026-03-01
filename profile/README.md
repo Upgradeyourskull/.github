@@ -1,5 +1,9 @@
 # MANIFEST
-- Game experience start at launch : menu is part of the game
-- Difficulties are not an option : at some point, you want to quit
-- Game reflects psychological reality : game is what someone live, dream about
-- Everything is here for a reason : details matter
+## Game experience starts at launch
+The menu is part of the game
+## Difficulty is not an option
+At some point, the player will want to quit
+## Music is design
+Unmute or don't play
+## Details matter
+Not everything is for the gameplay
