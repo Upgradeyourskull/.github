@@ -1,4 +1,6 @@
 # MANIFEST
+## Discovery
+Step by step tutorial is for baby
 ## Game experience starts at launch
 The menu is part of the game
 ## Difficulty is not an option
